@@ -454,6 +454,7 @@ pdf_presupuesto = generar_pdf_presupuesto(
     dias_laborados=dias_laborados,
     sueldo_diario=sueldo_diario,
     total_mano_obra=total_mano_obra,
+    flete=flete,
 
     total_proyecto=total_proyecto,
 
